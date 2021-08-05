@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.name-logo{
+    width:250px;
+}
+@media (max-width: 991px){
+.header_area .navbar {
+    background: #00bcd4;
+}
+}
